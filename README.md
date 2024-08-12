@@ -3,5 +3,5 @@ Integrantes do Grupo:
 Gabriel Bolzan,
 Gabriel dos Reis,
 Igor, 
-Gustavo,
+Gustavo H. Azeredo Zanella,
 Alan
