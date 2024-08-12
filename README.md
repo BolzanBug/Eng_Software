@@ -1,2 +1,7 @@
 # Eng_Software
-.favor explicar melhor
+Integrantes do Grupo:
+Gabriel Bolzan
+Gabriel dos Reis
+Igor 
+Gustavo
+Alan
