@@ -1,5 +1,5 @@
 # Eng_Software
-Integrantes do Grupo:
+<h2>Integrantes do Grupo:</h2>
 <br>Gabriel Bolzan
 <br>Gabriel dos Reis
 <br>Igor de Witt Juncoski
